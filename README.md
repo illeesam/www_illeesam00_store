@@ -66,7 +66,7 @@ www_illeesam00_store
 
 1. github 프로젝트생성 "www_illeesam00_store" :: https://github.com/illeesam/www_illeesam00_store
 2. 편집기열기 https://github.dev/illeesam/www_illeesam00_store
-3. 소스내용추가 : https://github.com/weniv/weniv_blog fork
+3. 소스내용추가 : https://github.com/weniv/weniv_blog 소스다운로드 및 붙여넣기
 3. GitHub Pages 가비아 도메인 연결하기 :: 설정참고 https://shxrecord.tistory.com/307
 4. Settings > pages
     Branch :: main
