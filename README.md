@@ -61,3 +61,16 @@
 
 ## www_illeesam00_store
 www_illeesam00_store
+
+## 설정 {프로젝트생성, 도메인연결}
+
+1. github 프로젝트생성 "www_illeesam00_store" :: https://github.com/illeesam/www_illeesam00_store
+2. 편집기열기 https://github.dev/illeesam/www_illeesam00_store
+3. 소스내용추가 : https://github.com/weniv/weniv_blog fork
+3. GitHub Pages 가비아 도메인 연결하기 :: 설정참고 https://shxrecord.tistory.com/307
+4. Settings > pages
+    Branch :: main
+    [Save] 클릭
+    Custom domain : www.illeesam23.store  [Save] 클륵
+5. http://www.illeesam23.shop URL 접근
+
